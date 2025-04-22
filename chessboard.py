@@ -9,7 +9,7 @@ chess_piece={
 }
 
 # 默认正方形棋盘
-class Checkboard:
+class Chessboard:
     def __init__(self,size=670, margin=5,  play_region_size=15 ,background_color="white",line_color="black",line_width=2):
         #
         self.margin = margin
