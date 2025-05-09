@@ -1,1 +1,5 @@
 __pycache__
+gomoku.spec
+
+build/
+dist/
